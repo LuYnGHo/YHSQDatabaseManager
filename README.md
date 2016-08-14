@@ -1,0 +1,2 @@
+# YHSQDatabaseManager
+让你面相对象开发SQLite3，一行代码帮你实现SQLite3的增删改差
